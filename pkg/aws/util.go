@@ -6,7 +6,7 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/cloudwatch"
-	"github.com/awslabs/k8s-cloudwatch-adapter/pkg/apis/metrics/v1alpha1"
+	"https://github.com/Comedycom/k8s-cloudwatch-adapter/pkg/apis/metrics/v1alpha1"
 
 	"k8s.io/klog"
 )

@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/awslabs/k8s-cloudwatch-adapter.svg?branch=master)](https://travis-ci.org/awslabs/k8s-cloudwatch-adapter)
 [![GitHub
-release](https://img.shields.io/github/release/awslabs/k8s-cloudwatch-adapter/all.svg)](https://github.com/awslabs/k8s-cloudwatch-adapter/releases)
+release](https://img.shields.io/github/release/awslabs/k8s-cloudwatch-adapter/all.svg)](https://https://github.com/Comedycom/k8s-cloudwatch-adapter/releases)
 [![docker image
 size](https://shields.beevelop.com/docker/image/image-size/chankh/k8s-cloudwatch-adapter/latest.svg)](https://hub.docker.com/r/chankh/k8s-cloudwatch-adapter)
 [![image
@@ -115,4 +115,4 @@ Refer to this [guide](samples/sqs/README.md).
 This library is licensed under the Apache 2.0 License.
 
 ## Issues
-Report any issues in the [Github Issues](https://github.com/awslabs/k8s-cloudwatch-adapter/issues)
+Report any issues in the [Github Issues](https://https://github.com/Comedycom/k8s-cloudwatch-adapter/issues)

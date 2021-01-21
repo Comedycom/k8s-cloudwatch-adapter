@@ -16,8 +16,8 @@
 package metrics
 
 import (
-	internalinterfaces "github.com/awslabs/k8s-cloudwatch-adapter/pkg/client/informers/externalversions/internalinterfaces"
-	v1alpha1 "github.com/awslabs/k8s-cloudwatch-adapter/pkg/client/informers/externalversions/metrics/v1alpha1"
+	internalinterfaces "https://github.com/Comedycom/k8s-cloudwatch-adapter/pkg/client/informers/externalversions/internalinterfaces"
+	v1alpha1 "https://github.com/Comedycom/k8s-cloudwatch-adapter/pkg/client/informers/externalversions/metrics/v1alpha1"
 )
 
 // Interface provides access to each of this group's versions.
